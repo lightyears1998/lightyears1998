@@ -19,6 +19,7 @@
 
 ### Github Stats
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=lightyears1998&show_icons=true)
-
-![Github Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lightyears1998&layout=compact)
+<p align="left">
+    <img height="230" src="https://github-readme-stats.vercel.app/api?username=lightyears1998&show_icons=true">
+    <img height="230" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lightyears1998">
+</p>
