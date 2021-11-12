@@ -7,7 +7,7 @@
 
 [![FlyPy](https://img.shields.io/badge/IME-FlyPy-%23f24f21)](https://www.flypy.com/)
 
-### Proficient Languages
+### Ecstatic Languages
 
 ![C++](https://img.shields.io/badge/C%2b%2b-00599C?style=flat-square&logo=c%2b%2b&logoColor=ffffff)
 ![GoLang](https://img.shields.io/badge/GoLang-00ADD8?style=flat-square&logo=go&logoColor=ffffff)
