@@ -1,7 +1,7 @@
 ### Toolchain
 
 [![Ubuntu 20.04 LTS](https://img.shields.io/badge/Ubuntu-20.04%20LTS-E95420?style=flat-square&logo=ubuntu&logoColor=ffffff)](https://lightyears1998.github.io/notebook/toolchain/operating-system/linux/distributions/Ubuntu/)
-[![Windows 10](https://img.shields.io/badge/Windows-10-2376bc?style=flat-square&logo=windows&logoColor=ffffff)](https://lightyears1998.github.io/notebook/toolchain/operating-system/windows/)
+[![Windows 11](https://img.shields.io/badge/Windows-11-2376bc?style=flat-square&logo=windows&logoColor=ffffff)](https://lightyears1998.github.io/notebook/toolchain/operating-system/windows/)
 
 [![FireFox](https://img.shields.io/badge/Browser-Firefox-FF7139?style=flat-square&logo=firefox&logoColor=ffffff)](https://www.mozilla.org/firefox/)
 
