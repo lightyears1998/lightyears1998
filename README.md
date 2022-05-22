@@ -1,3 +1,5 @@
+Hello there, this is @lightyears1998 : )
+
 ### Toolchain
 
 [![Ubuntu 20.04 LTS](https://img.shields.io/badge/Ubuntu-20.04%20LTS-E95420?style=flat-square&logo=ubuntu&logoColor=ffffff)](https://lightyears1998.github.io/notebook/toolchain/operating-system/linux/distributions/Ubuntu/)
@@ -28,3 +30,10 @@
     <img height="230" src="https://github-readme-stats.vercel.app/api?username=lightyears1998&show_icons=true">
     <img height="230" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lightyears1998">
 </p>
+
+### Blogs
+
+Wow, you have reached the bottom section! If you want to know me more, you are welcome to check out my blogs:
+
+- Technical blog is still under construction... : )
+- ![Life Blog (Chinese)](https://blog.qfstudio.net)
