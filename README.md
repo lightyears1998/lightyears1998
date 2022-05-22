@@ -1,4 +1,8 @@
-Hello there, this is @lightyears1998 : )
+Hello there, this is @lightyears1998! 
+
+- I am currently a postgraduate student studying in Guangzhou University. 
+- My major for the rocord is Cyber Space Security. (Though my actual research direaction is somehow not that related to Cyber Space Security...)
+- Anyhow, you are welcome to my GitHub profile.
 
 ### Toolchain
 
@@ -33,7 +37,7 @@ Hello there, this is @lightyears1998 : )
 
 ### Blogs
 
-Wow, you have reached the bottom section! If you want to know me more, you are welcome to check out my blogs:
+Wow, you have reached the bottom! If you would like to know me more, you are welcome to check out my blogs:
 
 - Technical blog is still under construction... : )
 - ![Life Blog (Chinese)](https://blog.qfstudio.net)
