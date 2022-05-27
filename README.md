@@ -40,5 +40,5 @@ Hello there, this is @lightyears1998!
 Wow, you have reached the bottom! If you would like to know me more, you are welcome to check out my blogs:
 
 - Technical blog is still under construction... : )
-- ![Life Blog (Chinese)](https://blog.qfstudio.net)
-- ![My notebook (Chinese)](https://lightyears1998.github.io/notebook/)
+- [Life Blog (Chinese)](https://blog.qfstudio.net)
+- [My notebook (Chinese)](https://lightyears1998.github.io/notebook/)
