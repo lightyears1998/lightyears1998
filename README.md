@@ -4,7 +4,7 @@ Hello there, this is @lightyears1998!
 - My major for the rocord is Cyber Space Security. (Though my actual research direaction is somehow not that related to Cyber Space Security...)
 - Anyhow, you are welcome to my GitHub profile.
 
-### Toolchain
+### My Favorite Tools
 
 [![Ubuntu 20.04 LTS](https://img.shields.io/badge/Ubuntu-20.04%20LTS-E95420?style=flat-square&logo=ubuntu&logoColor=ffffff)](https://lightyears1998.github.io/notebook/toolchain/operating-system/linux/distributions/Ubuntu/)
 [![Windows 11](https://img.shields.io/badge/Windows-11-2376bc?style=flat-square&logo=windows&logoColor=ffffff)](https://lightyears1998.github.io/notebook/toolchain/operating-system/windows/)
@@ -13,7 +13,7 @@ Hello there, this is @lightyears1998!
 
 [![FlyPy](https://img.shields.io/badge/IME-FlyPy-%23f24f21)](https://www.flypy.com/)
 
-### Languages that I am excited to write programs in 
+### My Favortie Programming Languages
 
 ![C++](https://img.shields.io/badge/C%2b%2b-00599C?style=flat-square&logo=c%2b%2b&logoColor=ffffff)
 ![TypeScript](https://img.shields.io/badge/Typescript-007ACC?style=flat-square&logo=TypeScript&logoColor=ffffff)
@@ -21,15 +21,12 @@ Hello there, this is @lightyears1998!
 
 ### Github Stats
 
-<p align="left">
-    <img height="230" src="https://github-readme-stats.vercel.app/api?username=lightyears1998&show_icons=true">
-    <img height="230" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lightyears1998">
-</p>
+![GitHub Total Stars Earned](https://img.shields.io/github/stars/lightyears1998?affiliations=OWNER&label=Total%20Stars%20Earned&style=social)
 
 ### Blogs
 
 Wow, you have reached the bottom! If you would like to know me more, you are welcome to check out my blogs:
 
 - Technical blog is still under construction... : )
-- [Life Blog (Chinese)](https://blog.qfstudio.net)
-- [My notebook (Chinese)](https://lightyears1998.github.io/notebook/)
+- [Life Blog (Simplified Chinese)](https://blog.qfstudio.net)
+- [My Notebook (Simplified Chinese)](https://lightyears1998.github.io/notebook/)
