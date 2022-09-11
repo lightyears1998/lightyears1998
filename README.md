@@ -1,4 +1,4 @@
-Hello there, this is @lightyears1998! 
+**Hi there**, this is @lightyears1998! 
 
 - I am currently a postgraduate student studying in Guangzhou University. 
 - My major for the rocord is Cyber Space Security. (Though my actual research direaction is somehow not that related to Cyber Space Security...)
