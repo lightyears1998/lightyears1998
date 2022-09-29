@@ -1,7 +1,7 @@
 **Hi there**, this is @lightyears1998! 
 
 - I am currently a postgraduate student studying in Guangzhou University. 
-- My major for the rcord is Cyber Space Security. (Though my actual research direaction is somehow not that related to Cyber Space Security...)
+- My major for the record is Cyber Space Security. (Though my actual research direaction is somehow not that related to Cyber Space Security...)
 - Anyhow, you are welcome to my GitHub profile.
 
 ### My Favorite Tools
