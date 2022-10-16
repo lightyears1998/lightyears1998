@@ -10,9 +10,9 @@
 
 If you would like to know me more, you are welcome to check out my blogs:
 
-- Technical blog is still under construction... : )
-- [Life Blog (Simplified Chinese)](https://blog.qfstudio.net)
-- [My Notebook (Simplified Chinese)](https://lightyears1998.github.io/notebook/)
+- [Technical blog](https://hacks.qfstudio.net/)
+- [Lifestyle Blog](https://blog.qfstudio.net) (Simplified Chinese)
+- [Notebook](https://lightyears1998.github.io/notebook/) (Simplified Chinese)
 
 [![FireFox](https://img.shields.io/badge/Browser-Firefox-FF7139?style=flat-square&logo=firefox&logoColor=ffffff)](https://www.mozilla.org/firefox/)
 [![FlyPy](https://img.shields.io/badge/IME-FlyPy-%23f24f21)](https://www.flypy.com/)
