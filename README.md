@@ -10,7 +10,7 @@
 
 If you would like to know me more, you are welcome to check out my blogs:
 
-- [Technical blog](https://hacks.qfstudio.net/) (under development)
+- ~[Technical blog](https://hacks.qfstudio.net/) (under development)~
 - [Lifestyle Blog](https://blog.qfstudio.net) (Simplified Chinese)
 - [Notebook](https://lightyears1998.github.io/notebook/) (Simplified Chinese)
 
