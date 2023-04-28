@@ -1,11 +1,11 @@
-**Hi there**, this is @lightyears1998! Welcome to my GitHub profile~
+**Hi there**, this is @lightyears1998! Welcome to my GitHub profile.
 
 - I am currently a postgraduate student studying in Guangzhou University. 
 - My major for the record is Cyber Space Security. (Though my actual research direaction is somehow not that related to Cyber Space Security...)
 
 ### Blogs
 
-If you would like to know me more, you are welcome to have a look at my blogs:
+If you would like to know me more, you are welcome to visit my blogs~
 
 - [Blog of Techs](https://hacks.qfstudio.net/) (Simplified Chinese)
 - [Blog of Daily Life](https://blog.qfstudio.net) (Simplified Chinese)
