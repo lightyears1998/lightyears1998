@@ -17,6 +17,6 @@ If you would like to know me more, you are welcome to visit my blogs~
 [![FireFox](https://img.shields.io/badge/Browser-Firefox-FF7139?style=flat-square&logo=firefox&logoColor=ffffff)](https://www.mozilla.org/firefox/)
 [![FlyPy](https://img.shields.io/badge/IME-FlyPy-%23f24f21)](https://www.flypy.com/)
 
+![CSharp](https://img.shields.io/badge/C%23-000000?style=flat-square&logo=csharp&logoColor=ffffff)
 ![C++](https://img.shields.io/badge/C%2b%2b-00599C?style=flat-square&logo=c%2b%2b&logoColor=ffffff)
 ![TypeScript](https://img.shields.io/badge/Typescript-007ACC?style=flat-square&logo=TypeScript&logoColor=ffffff)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=ffffff)
