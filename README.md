@@ -7,8 +7,8 @@
 
 If you would like to know me more, you are welcome to visit my blogs~
 
-- [Blog of Techs](https://hacks.qfstudio.net/) (Simplified Chinese)
-- [Blog of Daily Life](https://blog.qfstudio.net) (Simplified Chinese)
+- [Blog of Techs](https://hacks.qfstudio.net/) (written in Simplified Chinese)
+- [Blog of Daily Life](https://blog.qfstudio.net) (written in Simplified Chinese)
 
 ### Stats
 
